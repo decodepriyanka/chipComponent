@@ -1,4 +1,4 @@
-# MultiSelect Component
+# Chip Component
 
 A React component for selecting and displaying multiple users.
 This component is styled using Tailwind CSS, providing a clean and customizable appearance.
@@ -14,3 +14,5 @@ Search: Search for users by name.
 ```bash
 npm install
 ```
+
+![image](https://github.com/decodepriyanka/chipComponent/assets/64683009/c52e350f-9a33-46e1-8f4c-62d260a73882)
