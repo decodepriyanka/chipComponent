@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
-import MultiSelect from "./components/common/MultiSelect";
 import { UserFormatedData } from "./types";
 import UserData from "./types/user";
+import MultiSelect from "./components/MultiSelect";
 
 function App() {
   const [userData, setUserData] = useState<UserFormatedData[]>([]);

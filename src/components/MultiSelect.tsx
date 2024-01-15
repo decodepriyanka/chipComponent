@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { UserFormatedData } from "../../types/user";
+import { UserFormatedData } from "../types";
 
 interface MultiSelectProps {
   options: UserFormatedData[];
